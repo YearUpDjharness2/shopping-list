@@ -15,6 +15,7 @@ public class ShoppingList {
         System.out.println("Stock");
         System.out.println("Protien");
         System.out.println("Pizza");
+        System.out.println("Fries");
 
     }
 
